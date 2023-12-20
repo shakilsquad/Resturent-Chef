@@ -20,7 +20,7 @@ const MostPopularItems = () => {
                             <div className='top-0 left-0 absolute bg-black p-1 rounded'>
                                 <h1 className='text-white flex items-center gap-1'>
                                     <FaStar className='text-yellow-400' />
-                                    4.5(6.5K)</h1>
+                                    4.5(5.0)</h1>
                             </div>
                         </div>
 
@@ -68,7 +68,7 @@ const MostPopularItems = () => {
                             <div className='top-0 left-0 absolute bg-black p-1 rounded'>
                                 <h1 className='text-white flex items-center gap-1'>
                                     <FaStar className='text-yellow-400' />
-                                    4.7(2.5K)</h1>
+                                    4.7(5.0)</h1>
                             </div>
                         </div>
 
@@ -116,7 +116,7 @@ const MostPopularItems = () => {
                             <div className='top-0 left-0 absolute bg-black p-1 rounded'>
                                 <h1 className='text-white flex items-center gap-1'>
                                     <FaStar className='text-yellow-400' />
-                                    4.9(8.5K)</h1>
+                                    4.9(5.0)</h1>
                             </div>
                         </div>
 
@@ -164,7 +164,7 @@ const MostPopularItems = () => {
                             <div className='top-0 left-0 absolute bg-black p-1 rounded'>
                                 <h1 className='text-white flex items-center gap-1'>
                                     <FaStar className='text-yellow-400' />
-                                    4.1(3.5K)</h1>
+                                    4.1(5.0)</h1>
                             </div>
                         </div>
 
@@ -212,7 +212,7 @@ const MostPopularItems = () => {
                             <div className='top-0 left-0 absolute bg-black p-1 rounded'>
                                 <h1 className='text-white flex items-center gap-1'>
                                     <FaStar className='text-yellow-400' />
-                                    4.2(2.7K)</h1>
+                                    4.2(5.0)</h1>
                             </div>
                         </div>
 
@@ -260,7 +260,7 @@ const MostPopularItems = () => {
                             <div className='top-0 left-0 absolute bg-black p-1 rounded'>
                                 <h1 className='text-white flex items-center gap-1'>
                                     <FaStar className='text-yellow-400' />
-                                    4.8(3.7K)</h1>
+                                    4.8(5.0)</h1>
                             </div>
                         </div>
 
