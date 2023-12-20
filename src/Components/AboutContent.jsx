@@ -6,6 +6,7 @@ import { BiSelectMultiple } from "react-icons/bi";
 import { CiDeliveryTruck } from "react-icons/ci";
 import { RiMoneyDollarBoxLine } from "react-icons/ri";
 import MostPopularItems from './MostPopularItems';
+import DeleverySection from './DeleverySection';
 
 
 
@@ -129,6 +130,10 @@ const AboutContent = () => {
                         </div>
                     </div>
                 </div>
+            </section>
+            {/* delevery section */}
+            <section>
+                <DeleverySection></DeleverySection>
             </section>
             {/* Most Popular Items */}
             <section className="bg-slate-200 container p-10 px-5 mx-auto md:mt-10 my-4 rounded-md blog">
